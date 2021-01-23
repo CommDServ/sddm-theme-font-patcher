@@ -42,4 +42,4 @@ if [[ $checknames != 'patcher.sh' ]]; then
   esac
 fi
 patch
-change_name
+#change_name
