@@ -14,7 +14,7 @@ $ ./patcher.sh
 
 ## Tested Theme
 
-- [x] Breeze*
+- [x] Breeze
 - [ ] Canta
 - [ ] ChromeOS
 - [ ] Layan
@@ -22,5 +22,3 @@ $ ./patcher.sh
 - [ ] McMojave
 - [x] Qogir
 - [ ] Vimix
-
-*:Need to del two brackets before it works.
